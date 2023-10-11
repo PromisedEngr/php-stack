@@ -64,36 +64,6 @@ class Homepage extends Component {
             </div>
           </div>
         </section>
-
-        <div className="py-1 bg-light">
-          <div className="container px-5 my-5">
-            <div className="row gx-5 justify-content-center">
-              <div className="col-lg-4 mb-5">
-                <img src="https://i.imgur.com/xlQkUaE.jpg" className="img-fluid biopic" alt="Developer of this app" />
-              </div>
-              <div className="col-lg-8 mb-5 biotext">
-                <h3>Your Host This Evening</h3>
-                <h5 className="my-4">Eyad Alshafi</h5>
-                <p>Welcome one and all to my humble project. My name is Eyad, and I created this Blackjack 
-                game as part of the Mintbean hackathaon. I'm a software developer with experience in a wide array of 
-                technologies including: JavaScript, React, jQuery, Node, Express, Python, Flask, SQL, and many more. 
-                You can learn more about me by visiting <a href="https://eyad-a.github.io/portfolio/" target="_blank" rel="noreferrer">my portfolio</a>.</p>
-                
-                <p className="text-center my-5">
-                  <span>
-                    <a href="https://www.linkedin.com/in/eyad-alshafi/" target="_blank" rel="noreferrer"><FaLinkedin /></a>
-                  </span>
-                  <span className="mx-5">
-                    <a href="https://github.com/Eyad-A/" target="_blank" rel="noreferrer"><FaGithub /></a>
-                  </span>
-                  <span>
-                    <a href="https://eyad-a.github.io/portfolio/" target="_blank" rel="noreferrer"><FaExternalLinkAlt /></a>
-                  </span>
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
       </main>
     );
   }
