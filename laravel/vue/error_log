@@ -1,0 +1,2 @@
+[28-Mar-2022 18:50:21 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 1042354176) (tried to allocate 1025576960 bytes) in /home4/hguusaov/mooks.elvirainfotech.live/app/Helpers/Helper.php on line 110
+[14-Apr-2022 12:07:23 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 1608519680 bytes) in /home4/hguusaov/mooks.elvirainfotech.live/app/Helpers/Helper.php on line 110
